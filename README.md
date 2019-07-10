@@ -18,3 +18,4 @@ https://developers.weixin.qq.com/miniprogram/dev/devtools/git.html<br>
 https://zhuanlan.zhihu.com/p/42512987<br>
 其中远程仓库填https://github.com/sit-smart-park/SmartPark.git<br>
 设置中的网络认证填自己的github账号密码<br>
+### 常用git指令
