@@ -13,3 +13,8 @@
 ### 微信开发者工具
 1. 创建本地代码仓库
 2. 连接远程仓库
+参考
+https://developers.weixin.qq.com/miniprogram/dev/devtools/git.html
+https://zhuanlan.zhihu.com/p/42512987
+其中远程仓库填https://github.com/sit-smart-park/SmartPark.git
+设置中的网络认证填自己的github账号密码
