@@ -10,6 +10,7 @@
   - 加入organization<br>
     https://github.com/sit-smart-park<br>
     People->Invite member, 将自己的账号添加进来
+    在邮箱中接收邀请链接
 ### 微信开发者工具
 1. 创建本地代码仓库
 2. 连接远程仓库
