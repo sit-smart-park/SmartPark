@@ -9,7 +9,7 @@
     密码: 见群
   - 加入organization<br>
     https://github.com/sit-smart-park<br>
-    People->Invite member, 将自己的账号添加进来<br>
+    People->Invite member, 将自己的账号添加进来
 ### 微信开发者工具
 1. 创建本地代码仓库
 2. 连接远程仓库
